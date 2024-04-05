@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @subhangikasture
-- 👀 I’m interested in ... Coding, Andriod studio app development, dancing, I am a certified yoga teacher and writing blogs hahaaa its fun :)
+- 👀 I’m interested in ... Coding and have fun with it :)
 - 🌱 I’m currently learning ...  Practising DSA in c# coding problems from AlgoExpert Wish me luck haha!!
-- 💞️ I’m looking to collaborate on ... App development projects 
-- 📫 How to reach me ... @subhangikasture @online_yoga_classes_ssk
+- 📫 How to reach me ... Insta id @subhangikasture
 
 <!---
 subhangikasture/subhangikasture is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
